@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace 'com.mrx7014.s24ultraspoofer'
-    compileSdk 34
+    namespace 'com.omar.coloredfp'
+    compileSdk 30
 
     defaultConfig {
-        applicationId "com.mrx7014.s24ultraspoofer"
+        applicationId "com.omar.coloredfp"
         minSdk 29
-        targetSdk 34
+        targetSdk 30
         versionCode 1
         versionName "1.0"
     }
