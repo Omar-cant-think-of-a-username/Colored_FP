@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.omar.coloredfp'
-    compileSdk 30
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.omar.coloredfp"
         minSdk 29
-        targetSdk 30
+        targetSdk 34
         versionCode 1
         versionName "1.0"
     }
